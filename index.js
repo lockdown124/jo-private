@@ -161,11 +161,11 @@ async function startjobotz() {
 │➳ ${metadata.subject}
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
-╭━━•›〘 ⪻ ༼
+╭━━•›〘 ⪻ᴰʀᴇᴀᴍ⪼ 〙
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-©
+
 `
                   jobotz.sendMessage(anu.id, { image: { url: pp_user }, contextInfo: { mentionedJid: [num] }, caption: anunya2 })
                 }
